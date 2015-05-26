@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=InstructionButton(java.lang.String)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ InstructionButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ buttonPressed()
+comment1.text=\r\n\ Decides\ what\ to\ do\ when\ pressed,\r\n\ Loads\ the\ instruction\ screen\r\n
+numComments=2

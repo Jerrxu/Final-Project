@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=damage
+comment0.target=Weapon(int)
+comment0.text=\r\n\ Gives\ the\ damage\ of\ the\ weapon.\r\n\ \r\n\ @param\ damage\ The\ damage\ of\ the\ weapon.\r\n
+comment1.params=
+comment1.target=int\ getDamage()
+comment1.text=\r\nReturns\ the\ damage\ of\ the\ weapon.\r\n\r\n@return\ int\ The\ damage.\r\n
+numComments=2

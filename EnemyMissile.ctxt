@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ action()
+comment2.params=
+comment2.target=void\ checkRemove()
+numComments=3

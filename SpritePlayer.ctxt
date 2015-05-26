@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name\ amount
+comment0.target=SpritePlayer(java.lang.String,\ int)
+comment0.text=\r\n\ Makes\ a\ new\ sprite\ player\ and\ imports\ all\ the\ sprite\ for\ given\ file\ name\r\n\ <br>\r\n\ Name\ must\ follow\ format\ of\ .png,\ and\ also\ named\ with\ NAME\#.png\r\n\ \r\n\ @param\ name\ Name\ or\ path\ of\ the\ file\ in\ general,\ no\ need\ for\ ".png"\ or\ number\r\n\ @param\ amount\ The\ amount\ of\ pictures\ for\ this\ set\r\n
+comment1.params=index
+comment1.target=java.lang.String\ getImageName(int)
+comment1.text=\r\n\ Returns\ the\ image's\ name\r\n\ \r\n\ @return\ String\ name\ of\ image\ to\ display\ \r\n\ @param\ index\ The\ number\ in\ the\ set\ you\ wnat\ the\ name\ of\r\n
+comment2.params=index
+comment2.target=greenfoot.GreenfootImage\ returnImage(int)
+comment2.text=\r\n\ Returns\ the\ image\ to\ display\r\n\ \r\n\ @param\ index\ the\ number\ from\ the\ array\r\n\ @return\ GreenfootImage\ Image\ to\ display\r\n
+numComments=3

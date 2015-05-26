@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=stage\ type\ num
+comment0.target=Door(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ (sets\ door\ facing\ direction,\ type)\r\n\ @param\ stage\ the\ room\ number\ to\ set\ player\ spawning\ location\r\n
+comment1.params=
+comment1.target=void\ open()
+comment1.text=\r\n\ Opens\ a\ door\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ opened()
+comment2.text=\r\n\ Returns\ true\ if\ door\ is\ opened\r\n\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Removes\ all\ objects\ in\ the\ world\ except\ door,\ sets\ new\ World\ with\ different\ constructors\ depending\ on\ door\ types\r\n
+numComments=4

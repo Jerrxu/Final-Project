@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=hitpoints\ damage
+comment0.target=Enemy(int,\ int)
+comment0.text=\r\n\ Defines\ the\ Enemy\ that\ each\ team\ member\ coded\r\n\ \r\n\ @param\ hitpoints\ The\ health\ you\ want\ your\ enemy\ to\ have\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PlayerEnemy\ wants\ to\ do.\ This\ method\ is\ called\ every\ time\ screen\ refreshes\r\n
+comment2.params=
+comment2.target=void\ randomMove()
+comment2.text=\r\n\ Controls\ how\ the\ enemy\ would\ move\ like\r\n
+comment3.params=
+comment3.target=void\ attackMove()
+comment3.text=\r\n\ Controls\ how\ the\ enemy\ would\ perform\ a\ killing\ move,\ leave\ empty\ if\ N/A\r\n
+comment4.params=
+comment4.target=void\ shouldKillSelf()
+comment4.text=\r\n\ Predict\ circumstances\ to\ kill\ self\r\n
+comment5.params=
+comment5.target=void\ damagePlayer()
+comment5.text=\r\n\ Checks\ and\ applies\ damage\ to\ player\r\n
+comment6.params=
+comment6.target=void\ checkHeroLocation()
+comment6.text=\r\n\ See\ where\ the\ player\ is\r\n\ @author\ Jerry\ Xu\r\n
+comment7.params=
+comment7.target=void\ onDeath()
+comment7.text=\r\n\ What\ to\ do\ when\ hit,\ what\ code\ to\ run\ on\ death\r\n
+numComments=8

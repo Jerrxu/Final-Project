@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jumper()
+comment1.params=
+comment1.target=void\ attackMove()
+comment2.params=
+comment2.target=void\ gravitize()
+comment3.params=
+comment3.target=void\ randomMove()
+comment4.params=d
+comment4.target=void\ randomJump(int)
+comment5.params=
+comment5.target=void\ checkStopMovement()
+comment6.params=
+comment6.target=void\ onDeath()
+numComments=7

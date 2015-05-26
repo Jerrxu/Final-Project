@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ s1\ s2\ s3\ highlighted
+comment0.target=HUD(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Creates\ a\ Head\ Up\ Display\ of\ info\r\n\ \r\n\ @param\ s\ Health\ Level\r\n\ @param\ s1\ Missile\ Ammo\r\n\ @param\ s2\ Super\ Missile\ Ammo\r\n\ @param\ s3\ Current\ Level\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ every\ time\ screen\ Refreshes,\ add\ new\ HUD,\ delete\ this\ one\r\n
+numComments=2

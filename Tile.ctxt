@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Tile(int)
+comment0.text=\r\n\ Creates\ a\ Tile\ with\ inputted\ request\r\n\ \r\n\ @param\ x\ The\ type\ of\ block\ to\ add\r\n
+comment1.params=
+comment1.target=boolean\ isEasyBreakable()
+comment1.text=\r\n\ Return\ boolean\ Breakable\ by\ bullets\ or\ not\r\n
+comment2.params=
+comment2.target=boolean\ isSuperBreakable()
+comment2.text=\r\n\ Return\ boolean\ Breakable\ by\ super\ missile\ or\ not\r\n
+numComments=3

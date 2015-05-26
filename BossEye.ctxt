@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BossEye()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method.\ Maintains\ its\ position\ above\ the\ boss.\r\n
+comment2.params=
+comment2.target=void\ checkHitAndDeath()
+comment2.text=\r\n\ Checks\ if\ the\ eye\ is\ hit.\ If\ so,\ minus\ 1\ to\ health.\r\n\ Then\ checks\ if\ the\ health\ is\ 0.\ If\ so,\ remove\ the\ object.\ The\ boss\ is\ dead.\r\n
+comment3.params=
+comment3.target=int\ getHp()
+comment4.params=
+comment4.target=void\ onDeath()
+comment5.params=
+comment5.target=void\ attackMove()
+comment6.params=
+comment6.target=void\ randomMove()
+numComments=7

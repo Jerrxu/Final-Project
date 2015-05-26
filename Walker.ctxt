@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Walker()
+comment1.params=
+comment1.target=void\ attackMove()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Walker\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ gravitize()
+comment3.params=
+comment3.target=void\ randomMove()
+comment4.params=
+comment4.target=void\ checkStopMovement()
+comment5.params=
+comment5.target=void\ onDeath()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ type
+comment0.target=QuitButton(java.lang.String,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ Button\r\n\ \r\n\ @param\ name\ The\ word\ to\ display\r\n\ @param\ type\ What\ type\ of\ quit\r\n
+comment1.params=
+comment1.target=void\ buttonPressed()
+comment1.text=\r\n\ Decides\ what\ to\ do\ when\ pressed\r\n\ \r\n\ 1\ exit\ to\ home\ screen,\ 2\ stops\ whole\ game\r\n
+numComments=2

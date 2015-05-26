@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=goingLeft
+comment0.target=SuperMissile(boolean)
+comment0.text=\r\n\ Creates\ a\ Super\ missile.\r\n\ \r\n\ @param\ goingLeft\ determines\ whether\ the\ super\ missile\ is\ going\ left\ or\ right.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moves.\ Removes\ self\ if\ it\ hits\ a\ tile.\r\n
+numComments=2

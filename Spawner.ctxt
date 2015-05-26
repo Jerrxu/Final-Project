@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Spawner(int)
+comment0.text=\r\n\ Creates\ a\ spawn\ point\ for\ enemies\r\n\ \r\n\ @param\ type\ The\ type\ of\ spawner\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ Spawner\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Gets\ run\ every\ time\ screen\ refreshes\r\n
+numComments=3

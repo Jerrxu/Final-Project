@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=clss
+comment0.target=java.util.List\ getTouchedObjects(java.lang.Class)
+comment0.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Returns\ a\ List\ of\ all\ Actors,\ that\ are\ touched\ by\ this\ object
+comment1.params=clss
+comment1.target=boolean\ touch(java.lang.Class)
+comment1.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Return,\ if\ it\ intersects\ an\ actor\ of\ the\ given\ class
+comment2.params=clss
+comment2.target=greenfoot.Actor\ getOneTouchedObject(java.lang.Class)
+comment2.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ It\ returns\ a\ touched\ actor\ of\ the\ given\ class,\ if\ there's\ one\ touched.
+comment3.params=a_big
+comment3.target=boolean\ touch(greenfoot.Actor)
+comment3.text=This\ method\ is\ a\ pixel\ perfect\ collision\ detection.\ Returns\ true,\ if\ the\ object\ touchs\ the\ given\ Actor
+comment4.params=
+comment4.target=boolean\ onPlatform()
+comment4.text=\r\n\ Checks\ if\ the\ object\ is\ one\ a\ platform\r\n\ \r\n\ @author\ Jerry\ Xu\ \r\n\ @return\ boolean\ On\ or\ Off\ platform\r\n
+comment5.params=left\ a
+comment5.target=boolean\ touchSide(boolean,\ greenfoot.Actor)
+comment5.text=\r\n\ see\ if\ its\ touching\ the\ side\ of\ a\ tile\r\n\ @author\ David\ Liu\r\n\ @return\ boolean\r\n\ @param\ left\ Left\ or\ Right\r\n\ @param\ a\ The\ object\ to\ detect\ from\ (just\ put\ "this")\r\n
+numComments=6

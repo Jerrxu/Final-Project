@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Checks\ if\ it\ touches\ bullet\ every\ act.\ If\ yes\ adds\ pause\ screen\ to\ world\ to\ enable\ save,\ resume,\ quit\r\n
+numComments=1

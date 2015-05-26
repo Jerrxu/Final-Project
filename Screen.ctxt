@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=choice
+comment0.target=Screen(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Screen.\r\n\ \r\n\ @param\ choice\ The\ choice\ for\ the\ screen\ to\ display\ 1-\ Death\ screen,\ 2-Start\ Screen,\ 3-Info\ Screen,\ 4-\ Congrats\ Screen\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ every\ time\ screen\ Refreshes\r\n
+comment2.params=
+comment2.target=void\ checkMoves()
+comment2.text=\r\n\ Check\ what\ the\ player\ has\ chosen,\ allow\ certain\ movement\r\n
+numComments=3

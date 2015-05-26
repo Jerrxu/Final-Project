@@ -1,0 +1,8 @@
+I'm adding more frames because it looks really funny running at >5 frames per second
+(of course the best way to slow down the frame rate would be to change the animation function but...)
+
+-NOTE: have to change player speed as well. the sprite simply can run at that speed.
+
+:and they haven't been resized yet (still2.25 tiles tall. i'll work on it now. might take some time)
+
+UPDATE 1: all images in this folder has been resized to a height of 2 tiles (32x3 pixels)

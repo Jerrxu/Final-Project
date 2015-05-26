@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss()
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment10.params=
+comment10.target=void\ moveSequence()
+comment10.text=\r\n\ Describes\ the\ boss's\ moves\ since\ the\ beginning\ of\ the\ boss\ stage.\r\n\ The\ boss's\ movement\ and\ attacks\ are\ preset\ in\ 2000\ act\ intervals.\r\n
+comment11.params=
+comment11.target=void\ checkHitPlayer()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gravitize()
+comment3.text=\r\n\ Makes\ the\ actor\ fall,\ simulating\ gravity.\ The\ greatest\ fall\ speed\ is\ 20pixels/act\r\n
+comment4.params=
+comment4.target=boolean\ onTile()
+comment4.text=\r\n\ Checks\ if\ the\ boss\ is\ on\ a\ tile.\r\n\ \r\n\ @return\ True\ if\ boss\ is\ on\ a\ tile.\ False\ otherwise.\r\n
+comment5.params=
+comment5.target=void\ checkStopMovement()
+comment5.text=\r\n\ Checks\ to\ stop\ the\ movement\ of\ the\ boss\ when\ it\ hits\ a\ solid\ object.\r\n
+comment6.params=
+comment6.target=void\ checkAttack()
+comment6.text=\r\n\ Checks\ which\ attack\ to\ use.\r\n
+comment7.params=
+comment7.target=void\ randomSprayAttack()
+comment7.text=\r\n\ Sprays\ a\ rotating\ shower\ of\ projectiles,\ starting\ from\ rotation\ \=\ 0\ (leftward),\ going\ clockwise.\r\n\ Lasts\ for\ variable\ amount\ of\ acts\ depending\ on\ the\ health\ of\ the\ BossEye.\ \r\n
+comment8.params=
+comment8.target=void\ fireAtPlayerAttack()
+comment8.text=\r\n\ Fires\ directly\ at\ the\ player's\ location,\ regardless\ of\ obstacles\ in\ the\ way.\r\n\ Lasts\ for\ variable\ amount\ of\ acts\ dependent\ on\ the\ eye's\ health.\r\n
+comment9.params=
+comment9.target=void\ waveAttack()
+comment9.text=\r\n\ Pulsates\ 3\ waves\ of\ projectiles,\ each\ with\ 2\ times\ the\ concentration\ of\ projectiles\ than\ the\ last.\r\n\ Lasts\ for\ 100\ acts.\r\n
+numComments=12

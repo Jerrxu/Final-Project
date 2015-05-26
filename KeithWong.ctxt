@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=producedFromSplit\ scale
+comment0.target=KeithWong(boolean,\ int)
+comment0.text=\r\n\ Creates\ an\ enemy\ KeithWong.\r\n\ \r\n\ @param\ producedFromSplit\ whether\ or\ not\ the\ enemy\ was\ spawned\ from\ another\ enemy\ dying\r\n\ @param\ scale\ how\ big\ to\ make\ the\ object.\ Bigger\ number\ \=\ smaller\ enemy\r\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Sets\ the\ image,\ spawn\ movements,\ and\ gets\ the\ player.\r\n\ \r\n\ @param\ w\ The\ World.\r\n
+comment2.params=
+comment2.target=void\ attackMove()
+comment2.text=\r\n\ Nothing.\r\n
+comment3.params=
+comment3.target=void\ randomMove()
+comment3.text=\r\n\ Moves\ KeithWong.\ Jumps\ around\ and\ follows\ the\ player.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ gravity()
+comment4.text=\r\n\ Makes\ KeithWong\ come\ back\ down.\r\n\ \r\n
+comment5.params=
+comment5.target=void\ moveLeft()
+comment5.text=\r\n\ Moves\ left.\r\n
+comment6.params=
+comment6.target=void\ moveRight()
+comment6.text=\r\n\ Moves\ right.\r\n
+comment7.params=
+comment7.target=void\ jump()
+comment7.text=\r\n\ Jumps.\ Will\ jump\ for\ jumpCycles\ amount\ of\ acts.\r\n
+comment8.params=
+comment8.target=void\ onDeath()
+comment8.text=\r\n\ Spawns\ 2\ more\ of\ this\ (smaller\ versions)\ when\ it\ dies.\r\n\ \r\n
+comment9.params=
+comment9.target=boolean\ onPlatform()
+comment9.text=\r\n\ Checks\ to\ see\ if\ this\ is\ on\ a\ tile.\r\n\ \r\n\ @return\ boolean\ True\ when\ on\ a\ Tile,\ false\ when\ not.\r\n
+numComments=10

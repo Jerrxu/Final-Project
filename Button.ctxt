@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Button(java.lang.String)
+comment0.text=\r\n\ Creates\ a\ button\ with\ the\ requested\ name\r\n
+comment1.params=
+comment1.target=void\ highlight()
+comment1.text=\r\n\ Highlights\ the\ button\r\n
+comment2.params=
+comment2.target=void\ unHighlight()
+comment2.text=\r\n\ Unhighlights\ the\ button\r\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\r\n\ Removes\ the\ button\r\n
+comment4.params=
+comment4.target=void\ buttonPressed()
+comment4.text=\r\n\ Action\ to\ perform\ when\ the\ button\ is\ pressed\r\n
+numComments=5

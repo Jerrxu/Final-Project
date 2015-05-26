@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=PauseScreen(boolean)
+comment0.text=\r\n\ Creates\ a\ new\ pause\ screen\r\n\ \r\n\ @param\ type\ True\ for\ Save\ Screen,\ False\ for\ pause\ Screen\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ every\ time\ screen\ refreshes,\ checks\ the\ move\ and\ highlight\ accordingly\r\n
+comment2.params=
+comment2.target=void\ checkMoves()
+comment2.text=\r\n\ Check\ movement\ -\ copied\ from\ Screen\ Class\r\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\r\n\ Removes\ this\ and\ reset\ paint\ order\r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=goingLeft
+comment0.target=Bullet(boolean)
+comment0.text=\r\n\ Creates\ a\ bullet.\r\n\ \r\n\ @param\ goingLeft\ Determines\ whether\ the\ bullet\ is\ moving\ left\ or\ right.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moves,\ removes\ self\ when\ it\ touches\ a\ tile.\r\n
+numComments=2

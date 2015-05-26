@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DavidLiu()
+comment0.text=\r\n\ Creates\ a\ New\ Enemy\ made\ by\ David\ Liu\r\n
+comment1.params=
+comment1.target=void\ attackMove()
+comment1.text=\r\n\ No\ attacking\ Move\r\n
+comment2.params=
+comment2.target=void\ randomMove()
+comment2.text=\r\n\ Chases\ After\ the\ player\r\n
+comment3.params=
+comment3.target=void\ onDeath()
+comment3.text=\r\n\ Drops\ a\ Missile\ Pickup\ when\ Dead\r\n
+numComments=4
